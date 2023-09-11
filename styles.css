@@ -1,0 +1,10 @@
+/* Add your CSS styles here */
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    max-width: 150px;
+    border-radius: 50%;
+}
